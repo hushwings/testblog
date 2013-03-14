@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://hushwings.github.com/testblog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ideas | My Octopress Blog]]></title>
+  <link href="http://hushwings.github.com/testblog/blog/categories/ideas/atom.xml" rel="self"/>
   <link href="http://hushwings.github.com/testblog/"/>
   <updated>2013-03-15T00:31:37+08:00</updated>
   <id>http://hushwings.github.com/testblog/</id>
@@ -22,7 +22,7 @@
 慧生于觉觉生于自在生生还是无生。<br/>
 世外人法无定法，然后知非法法也；<br/>
 天下事了犹未了，何妨以不了了之。   <br/>
-&#8212;&#8212;<strong>取自归元藏经阁</strong></p>
+------<strong>取自归元藏经阁</strong></p>
 
 <p>有点意思！</p>
 ]]></content>
