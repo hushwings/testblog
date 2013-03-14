@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hushwings.github.com/testblog/atom.xml" rel="self"/>
   <link href="http://hushwings.github.com/testblog/"/>
-  <updated>2013-03-14T23:23:07+08:00</updated>
+  <updated>2013-03-15T00:05:00+08:00</updated>
   <id>http://hushwings.github.com/testblog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,13 +14,24 @@
 
   
   <entry>
-    <title type="html"><![CDATA[不了了之的开始]]></title>
+    <title type="html"><![CDATA[Blog With Octopress]]></title>
     <link href="http://hushwings.github.com/testblog/blog/2012/12/17/blog-with-octopress/"/>
-    <updated>2012-12-17T03:09:00+08:00</updated>
+    <updated>2012-12-17T00:00:00+08:00</updated>
     <id>http://hushwings.github.com/testblog/blog/2012/12/17/blog-with-octopress</id>
-    <content type="html"><![CDATA[<p>见了便做做了便放下了了有何不了,</p>
+    <content type="html"><![CDATA[<p>&#8211;
+layout: post
+title: &#8220;不了了之的开始&#8221;
+date: 2012-12-17 03:09
+comments: true</p>
 
-<p>慧生于觉觉生于自在生生还是无生。</p>
+<h2>categories: ideas </h2>
+
+<p>见了便做做了便放下了了有何不了,
+慧生于觉觉生于自在生生还是无生。
+世外人法无定法，然后知非法法也；
+天下事了犹未了，何妨以不了了之。</p>
+
+<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>&#8211;归元藏经阁</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
 ]]></content>
   </entry>
   
